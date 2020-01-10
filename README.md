@@ -28,4 +28,13 @@ In this challenge, we ask you to build a predictive model that answers the quest
 * Feature engineering
 * Binary Classification 
 
+### [3. MessangerBot](https://github.com/AjdinBajric)
+The bot opens facebook.com and log in with your credentials. After that bot clicks on the first chat and sends the message that you enter in the script 10 times. (Edit number in the for loop). 
 
+#### Dependencies
+* Chrome driver
+* Selenium
+
+#### Practice Skills
+* Web scraping
+* Automating Web Applications with Selenium
