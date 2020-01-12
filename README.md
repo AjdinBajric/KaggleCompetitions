@@ -29,7 +29,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 * Binary Classification 
 
 ### [3. MessangerBot](https://github.com/AjdinBajric)
-The bot opens facebook.com and log in with your credentials. After that bot clicks on the first chat and sends the message that you enter in the script 10 times. (Edit number in the for loop). 
+The bot opens facebook.com and log in with your credentials. Then bot clicks on the first chat and sends the message that you enter in the script 10 times. (Edit number in the for loop). 
 
 #### Dependencies
 * Chrome driver
@@ -38,3 +38,19 @@ The bot opens facebook.com and log in with your credentials. After that bot clic
 #### Practice Skills
 * Web scraping
 * Automating Web Applications with Selenium
+
+### [4. What Sarajevo Drives?](https://www.olx.ba/pretraga?kategorija=18&stanje=&v_b=&od=&do=&kanton=9&godiste_min=&godiste_max=&kilometra-a_min=0&kilometra-a_max=0&konjskih-snaga_min=&konjskih-snaga_max=&kilovata-kw_min=&kilovata-kw_max=&kubikaza_min=&kubikaza_max=)
+After a hazardous quality of the air in the past few days, I have decided to analyze "What kind of fuel do cars in Sarajevo run on?". There is almost 150.000 different kind of vehicles, according to the BIHAMK analysis from February 2019. 
+Analysis has proven that traffic jams and the type of your car are the cause of a bad air quality in Sarajevo. 
+
+<p align="center">
+  <img align="center" src="https://github.com/AjdinBajric/KaggleCompetitions/blob/master/What%20Sarajevo%20Drives/WhatSarajevoDrives.png?raw=true" alt = "Data about What kind of fuel cars in Sarajevo consume?">
+</p>
+
+#### Dependencies
+* Chrome driver
+* Selenium
+
+#### Practice Skills
+* Web scraping
+* Data visualization
