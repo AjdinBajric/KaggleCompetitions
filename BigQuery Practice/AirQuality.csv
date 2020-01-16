@@ -1,0 +1,21 @@
+location,city,country,pollutant,value,timestamp,unit,source_name,latitude,longitude,averaged_over_in_hours
+Živinice,Živinice,BA,co,4969.0,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.453888,18.648333,1.0
+Živinice,Živinice,BA,no2,58.6,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.453888,18.648333,1.0
+Živinice,Živinice,BA,so2,316.9,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.453888,18.648333,1.0
+Bukinje,Tuzla,BA,co,1502.0,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.523613,18.600277,1.0
+Bukinje,Tuzla,BA,o3,21.9,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.523613,18.600277,1.0
+Bukinje,Tuzla,BA,pm25,51.7,2020-01-16 17:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.523613,18.600277,1.0
+Bukinje,Tuzla,BA,so2,48.8,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.523613,18.600277,1.0
+BKC,Tuzla,BA,co,6914.0,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.531944,18.654722,1.0
+BKC,Tuzla,BA,no2,42.2,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.531944,18.654722,1.0
+BKC,Tuzla,BA,o3,6.0,2020-01-16 16:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.531944,18.654722,1.0
+BKC,Tuzla,BA,so2,199.5,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.531944,18.654722,1.0
+Lukavac,Lukavac,BA,co,3260.0,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.533302,18.534891,1.0
+Lukavac,Lukavac,BA,no2,48.2,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.533302,18.534891,1.0
+Lukavac,Lukavac,BA,o3,0.3,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.533302,18.534891,1.0
+Lukavac,Lukavac,BA,pm25,64.9,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.533302,18.534891,1.0
+Lukavac,Lukavac,BA,so2,14.8,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.533302,18.534891,1.0
+Skver,Tuzla,BA,no2,49.9,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.540833,18.673334,1.0
+Skver,Tuzla,BA,o3,30.8,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.540833,18.673334,1.0
+Skver,Tuzla,BA,pm25,235.6,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.540833,18.673334,1.0
+Skver,Tuzla,BA,so2,80.0,2020-01-16 18:00:00+00:00,µg/m³,Bosnia_Tuzlanski,44.540833,18.673334,1.0
