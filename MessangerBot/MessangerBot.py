@@ -10,8 +10,8 @@ driver.get("https://www.facebook.com/")
 driver.find_element_by_xpath("/html/body/div[1]/div[2]/div/div/div/div/div[2]/form/table/tbody/tr[2]/td[3]/label/input").click()
 
 #Enter your email and password below
-driver.find_element_by_xpath("/html/body/div[1]/div[3]/div[1]/div/div/div[2]/form/div/div[1]/input").send_keys("ajdin.bajric@outlook.com")
-driver.find_element_by_xpath("/html/body/div[1]/div[3]/div[1]/div/div/div[2]/form/div/div[2]/input").send_keys("bajric12")
+driver.find_element_by_xpath("/html/body/div[1]/div[3]/div[1]/div/div/div[2]/form/div/div[1]/input").send_keys("Your email")
+driver.find_element_by_xpath("/html/body/div[1]/div[3]/div[1]/div/div/div[2]/form/div/div[2]/input").send_keys("Your password")
 
 #Login button is being clicked
 driver.find_element_by_xpath("/html/body/div[1]/div[3]/div[1]/div/div/div[2]/form/div/div[3]/button").click()
